@@ -1,0 +1,7 @@
+{
+  "name": "DroidWeb AI",
+  "description": "A next-gen Android-style browser with AI-powered search, video detection, and immersive full-screen capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
